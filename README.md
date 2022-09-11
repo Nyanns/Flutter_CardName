@@ -1,4 +1,4 @@
-# kharismasatrianindhita
+# Kharisma Satria Nindhita
 
 A new Flutter project.
 
